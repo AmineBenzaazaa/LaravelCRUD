@@ -566,6 +566,14 @@ video {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
+.mx-1 {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
 .-mt-px {
   margin-top: -1px;
 }
@@ -888,6 +896,9 @@ video {
 .p-2 {
   padding: 0.5rem;
 }
+.p-1 {
+  padding: 0.25rem;
+}
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
@@ -1046,6 +1057,10 @@ video {
 .text-green-600 {
   --tw-text-opacity: 1;
   color: rgb(22 163 74 / var(--tw-text-opacity));
+}
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 .underline {
   text-decoration-line: underline;
